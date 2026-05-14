@@ -5,7 +5,7 @@
 Work, open-source, and personal code projects
 
 
-> \$F = [ Software, Data, Machine Learning, Systems, Ecology, Computational ]$
+> \$F = [ Software, Data, Machine-Learning, Systems, Ecology, Computational ]$
 > 
 > \$A = [ Engineer, Researcher, Teacher, Consultant, Mentor ]$
 >
