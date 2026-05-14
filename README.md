@@ -1,8 +1,8 @@
-## https://github.com/billspat
+### Patrick Bills
 
-Work, open and personal code projects from Pat Bills
+**Research Software Engineer/Data Scientist at [MSU ICER](https://icer.msu.edu)**
 
-*I am a researcher/developer staff member focused on getting science done at Michigan State University since 1996.*
+Work, open-source, and personal code projects
 
 
 > \$F = [ Software, Data, Machine_Learning, Systems, Ecology, Computational ]$
