@@ -5,9 +5,9 @@
 Work, open-source, and personal code projects
 
 
-> \$F = [ Software, Data, Machine_Learning, Systems, Ecology, Computational ]$
+> \$F = [ Software, Data, Machine Learning, Systems, Ecology, Computational ]$
 > 
-> \$A = [ Engineer, Researcher, Teacher, Mentor, Consultant ]$
+> \$A = [ Engineer, Researcher, Teacher, Consultant, Mentor ]$
 >
 > \$F\times A = \{(f, a)\mid f \in F \text{ and } a \in A\}$
 
