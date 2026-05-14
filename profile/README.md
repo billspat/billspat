@@ -7,7 +7,7 @@ I am a researcher/developer staff member focused on getting science done at Mich
 F = [ Software, Data, Machine_Learning, Systems, Ecology, Computational ]
 A = [ Engineer, Researcher, Teacher, Mentor, Consultant ]
 ```
-\${{(''a'', ''b'')}} where {{mvar|a}} is an element of {{mvar|A}} and {{mvar|b}} is an element of {{mvar|B}$
+\${{(''a'', ''b'')}} where {{mvar|a}} is an element of {{mvar|A}} and {{mvar|b}} is an element of {{mvar|B}}$
 
 [<kbd> <br> Website ➜ <br> </kbd>](https://billspat.com) [<kbd> <br> Work ➜ <br> </kbd>](https://gitlab.msu.edu/billspat) [<kbd> <br> ORCID ➜ <br> </kbd>](https://orcid.org/0000-0003-4235-255X)
 
