@@ -5,12 +5,15 @@
 Work, open-source, and personal code projects
 
 
-> \$F = [ Software, Data, Machine-Learning, Systems, Ecology, Computational ]$
-> 
-> \$A = [ Engineer, Researcher, Teacher, Consultant, Mentor ]$
->
 > \$F\times A = \{(f, a)\mid f \in F \text{ and } a \in A\}$
-
+>
+> *where* \
+> \$F = [ Software, Data, DataScience, Systems, Ecology, Computational ]$ \
+> *and* \
+> \$A = [ Engineer, Researcher, Teacher, Consultant, Mentor ]$ \
+> for research
+>
+> 
 
 [<kbd> <br> Website ➜ <br> </kbd>](https://billspat.com) [<kbd> <br> Work Code ➜ <br> </kbd>](https://gitlab.msu.edu/billspat) [<kbd> <br> ORCID ➜ <br> </kbd>](https://orcid.org/0000-0003-4235-255X)
 
